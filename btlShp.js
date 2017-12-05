@@ -72,4 +72,3 @@ function hitShip(shot, ship) {
   }
 
 }
-
